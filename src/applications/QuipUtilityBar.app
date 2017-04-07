@@ -4,9 +4,9 @@
         <headerColor>#1589EE</headerColor>
     </brand>
     <formFactors>Large</formFactors>
-    <label>Utility Bar Demo</label>
+    <label>Quip Bar</label>
     <navType>Standard</navType>
     <tab>standard-home</tab>
     <uiType>Lightning</uiType>
-    <utilityBar>UtilityBarDemo</utilityBar>
+    <utilityBar>QuipBar</utilityBar>
 </CustomApplication>

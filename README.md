@@ -1,3 +1,2 @@
-# Lightning Experience Utility Bar Demo
+# Lightning Quip Utility Bar 
 
-Check out this [blog](https://andyinthecloud.com/2016/09/10/unlocking-the-lightning-experience-utility-bar/) for more information.
