@@ -8,5 +8,5 @@
     <navType>Standard</navType>
     <tab>standard-home</tab>
     <uiType>Lightning</uiType>
-    <utilityBar>QuipBar</utilityBar>
+    <utilityBar>QuipUtilityBar</utilityBar>
 </CustomApplication>
